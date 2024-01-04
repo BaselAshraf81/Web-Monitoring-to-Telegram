@@ -38,4 +38,4 @@ Contributions are welcome! Submit issues or pull requests for improvements or bu
 
 Ensure responsible usage in compliance with the terms of use of the Azerbaijan university's portal. The project creators are not liable for any misuse or violations.
 
-For further inquiries, please contact [Basel Ashraf](linkedin.com/in/basel-askar-920248156).
+For further inquiries, please contact [Basel Ashraf](https://www.linkedin.com/in/basel-askar-920248156/).
