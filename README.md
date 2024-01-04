@@ -17,7 +17,7 @@ The primary goal is to automate the monitoring of application updates on an Azer
 
 ## Usage Instructions
 
-1. Clone this repository: `git clone https://github.com/BaselAshraf81/WebMonitoringToTelegram.git`
+1. Clone this repository: `git clone https://github.com/BaselAshraf81/Web-Monitoring-to-Telegram.git`
 2. Install required packages: `pip install -r requirements.txt`
 3. Configure your Telegram bot and acquire the API token.
 4. Run `encrypter.py` to encrypt and store your credentials in the JSON database.
