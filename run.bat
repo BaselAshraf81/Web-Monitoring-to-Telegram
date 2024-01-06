@@ -1,1 +1,1 @@
-python portal.py
+start "" /B pythonw.exe portal.py
