@@ -13,11 +13,11 @@ The primary goal is to automate the monitoring of application updates on an Azer
 - Integration with a Telegram bot for seamless update notifications.
 - Deployment on a free web hosting service with customized execution via `python portal.py`.
 - Encryption of credentials (email, password, bot chat ID) using `encrypter.py`, stored in a JSON database, and decrypted during runtime for user visibility.
-- Headless mode configuration for the WebDriver to ensure memory consumption remains below 35MB, enabling operation on any free online server.
+- Headless mode configuration for the WebDriver to ensure memory consumption remains below 50MB, enabling operation on any free online server.
 
 ## Usage Instructions
 
-1. Clone this repository: `git clone https://github.com/BaselAshraf81/Web-Monitoring-to-Telegram.git`
+1. Clone this repository: `git clone https://github.com/BaselAshraf81/WebMonitoringToTelegram.git`
 2. Install required packages: `pip install -r requirements.txt`
 3. Configure your Telegram bot and acquire the API token.
 4. Run `encrypter.py` to encrypt and store your credentials in the JSON database.
@@ -38,4 +38,4 @@ Contributions are welcome! Submit issues or pull requests for improvements or bu
 
 Ensure responsible usage in compliance with the terms of use of the Azerbaijan university's portal. The project creators are not liable for any misuse or violations.
 
-For further inquiries, please contact [Basel Ashraf](https://www.linkedin.com/in/basel-askar-920248156/).
+For further inquiries, please contact [Basel Ashraf](linkedin.com/in/basel-askar-920248156).
